@@ -27,6 +27,7 @@ body p{
 	font-family: 'Open Sans', sans-serif;
 		    letter-spacing: 1px;
 }
+
 body a:hover{
 	text-decoration:none;
 	    transition: 0.5s all ease;
@@ -2552,7 +2553,7 @@ section.social ul li {
 		padding: 4em 0;
 	}
 	.about-wthree {
-		padding: 4em 0 22em 0px;
+		padding: 4em 0 6em 0px;
 	}
 	.wthree_agile_footer {
 		padding: 5em 0 0 0;
@@ -2848,7 +2849,7 @@ section.social ul li {
 		padding: 3em 0;
 	}
 	.about-wthree {
-		padding: 3em 0 17em 0px;
+		padding: 3em 0 4em 0px;
 	}
 	.agile-info-wthree-box textarea {
 		min-height: 110px;
@@ -3357,7 +3358,7 @@ section.social ul li {
 		top: 55%;
 	}
 	.about-wthree {
-		padding: 2em 0 23em 0px;
+		padding: 2em 0 4em 0px;
 	}
 	.w3ls-info-about p {
 		margin: 0em 0 2em 0;
