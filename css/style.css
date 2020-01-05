@@ -2361,7 +2361,7 @@ ul.top-links li a i.fa:hover {
 .wthree_agile_footer {
   padding: 7em 0 0 0;
 }
-.newsletter input[type="email"] {
+/* .newsletter input[type="email"] {
        padding: 0.8em 1.5em;
     border: 1px solid #ffffff;
     width: 75%;
@@ -2371,7 +2371,7 @@ ul.top-links li a i.fa:hover {
     outline: none;
     float: left;
 
-}
+} */
 .newsletter  input[type="submit"] {
     background:#00a4e4;
     padding: 0.8em 1em;
