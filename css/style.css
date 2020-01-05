@@ -2270,7 +2270,7 @@ ul.top-links li a i.fa:hover {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-	min-height:670px;
+	min-height:300px;
 }
 .w3ls_footer_grid {
     margin: 0 auto;
